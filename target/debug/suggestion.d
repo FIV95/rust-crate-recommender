@@ -1,0 +1,1 @@
+/Users/fiv/Documents/rust/suggestion/target/debug/suggestion: /Users/fiv/Documents/rust/suggestion/src/api.rs /Users/fiv/Documents/rust/suggestion/src/data.rs /Users/fiv/Documents/rust/suggestion/src/display.rs /Users/fiv/Documents/rust/suggestion/src/main.rs /Users/fiv/Documents/rust/suggestion/src/processing.rs
